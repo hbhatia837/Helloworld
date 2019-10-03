@@ -4,4 +4,8 @@ java
 html
 css
 linux
+javascript
+c
+
+
 thank you
